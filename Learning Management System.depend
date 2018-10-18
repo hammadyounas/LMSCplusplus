@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1464290181 source:c:\users\hammad younas\downloads\learning management system\login.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	"teacher.h"
+	"administrator.h"
+	"login.h"
+	"Node.h"
+
+1464259511 c:\users\hammad younas\downloads\learning management system\administrator.h
+	<iostream>
+	"Admin.h"
+
+1464288812 c:\users\hammad younas\downloads\learning management system\admin.h
+	<string>
+
+1464288725 c:\users\hammad younas\downloads\learning management system\login.h
+	"administrator.h"
+	"teacher.h"
+
+1461850824 c:\users\hammad younas\downloads\learning management system\node.h
+	<iostream>
+
+1461779722 source:c:\users\hammad younas\downloads\learning management system\main.cpp
+	<iostream>
+	"login.h"
+	"Admin.h"
+
+1464260132 source:c:\users\hammad younas\downloads\learning management system\admin.cpp
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1464260104 source:c:\users\hammad younas\downloads\learning management system\administrator.cpp
+	<iostream>
+	"Admin.h"
+	"administrator.h"
+	<fstream>
+
+1464291623 c:\users\hammad younas\downloads\learning management system\teacher.h
+	<iostream>
+	"Admin.h"
+
+1464290706 source:c:\users\hammad younas\downloads\learning management system\teacher.cpp
+	<iostream>
+	<fstream>
+	"teacher.h"
+	"Admin.h"
+
+1464346656 source:e:\learning management system\admin.cpp
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1464344291 e:\learning management system\admin.h
+	<string>
+
+1464345955 source:e:\learning management system\administrator.cpp
+	<iostream>
+	"Admin.h"
+	"administrator.h"
+	<fstream>
+
+1464340640 e:\learning management system\administrator.h
+	<iostream>
+	"Admin.h"
+
+1464346135 source:e:\learning management system\main.cpp
+	<iostream>
+	"login.h"
+	"Admin.h"
+
+1464345860 e:\learning management system\login.h
+	"administrator.h"
+	"teacher.h"
+	"student.h"
+
+1464291623 e:\learning management system\teacher.h
+	<iostream>
+	"Admin.h"
+
+1464295153 e:\learning management system\student.h
+	<iostream>
+
+1464345796 source:e:\learning management system\teacher.cpp
+	<iostream>
+	<fstream>
+	"teacher.h"
+	"Admin.h"
+
+1464345740 source:e:\learning management system\login.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	"teacher.h"
+	"administrator.h"
+	"login.h"
+	"Node.h"
+
+1461850824 e:\learning management system\node.h
+	<iostream>
+
+1464345838 source:e:\learning management system\student.cpp
+	<iostream>
+	"student.h"
+	<fstream>
+
+1512918634 source:f:\learning management system\admin.cpp
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1464344291 f:\learning management system\admin.h
+	<string>
+
+1464345955 source:f:\learning management system\administrator.cpp
+	<iostream>
+	"Admin.h"
+	"administrator.h"
+	<fstream>
+
+1464340640 f:\learning management system\administrator.h
+	<iostream>
+	"Admin.h"
+
+1512915508 source:f:\learning management system\login.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	"teacher.h"
+	"administrator.h"
+	"login.h"
+	"Node.h"
+
+1464291623 f:\learning management system\teacher.h
+	<iostream>
+	"Admin.h"
+
+1464345860 f:\learning management system\login.h
+	"administrator.h"
+	"teacher.h"
+	"student.h"
+
+1464295153 f:\learning management system\student.h
+	<iostream>
+
+1461850824 f:\learning management system\node.h
+	<iostream>
+
+1464346135 source:f:\learning management system\main.cpp
+	<iostream>
+	"login.h"
+	"Admin.h"
+
+1464345838 source:f:\learning management system\student.cpp
+	<iostream>
+	"student.h"
+	<fstream>
+
+1464345796 source:f:\learning management system\teacher.cpp
+	<iostream>
+	<fstream>
+	"teacher.h"
+	"Admin.h"
+
